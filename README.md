@@ -1,39 +1,63 @@
-# 🎨 Recriação de Página com Bootstrap
+# Recriação de Página com Bootstrap
 
-> 🚀 **Atividade da disciplina** ![Front-End](https://img.shields.io/badge/Front--End-007bff?style=for-the-badge&logo=html5&logoColor=white) – Projeto para explorar e aplicar conceitos do framework ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white).
-
----
-
-## 📚 Sobre a Atividade
-
-Nesta atividade, o foco foi **pesquisar e se familiarizar com o framework** ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white), usando a documentação oficial para recriar uma página do professor.
-
-O desafio foi aplicar os principais componentes, classes utilitárias e o sistema de grid para criar uma página ![Responsivo](https://img.shields.io/badge/Responsivo-198754?style=for-the-badge), moderna e funcional — utilizando apenas o arquivo `index.html`.
+> **Atividade da disciplina** <mark>Front-End</mark> – Projeto para explorar e aplicar conceitos do framework <mark>Bootstrap</mark>.
 
 ---
 
-## 🎯 Objetivos do Projeto
+## Sobre a Atividade
 
-- Explorar a documentação oficial do ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white).
-- Praticar layouts ![Responsivo](https://img.shields.io/badge/Responsivo-198754?style=for-the-badge) com o sistema de grid.
-- Utilizar componentes nativos do ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white), como botões, navegação e formulários.
-- Aprender a importar o Bootstrap via ![CDN](https://img.shields.io/badge/CDN-0d6efd?style=for-the-badge).
+Nesta atividade, o foco foi pesquisar e se familiarizar com o framework <mark>Bootstrap</mark>, utilizando a documentação oficial para recriar uma página do professor.
+
+O desafio foi aplicar os principais componentes, classes utilitárias e o sistema de grid para construir uma página <mark>responsiva</mark>, moderna e funcional, usando apenas o arquivo `index.html`.
+
+---
+
+## Objetivos do Projeto
+
+- Explorar a documentação oficial do <mark>Bootstrap</mark>.
+- Praticar layouts <mark>responsivos</mark> com o sistema de grid.
+- Utilizar componentes nativos do <mark>Bootstrap</mark>, como botões, navegação e formulários.
+- Aprender a importar o Bootstrap via <mark>CDN</mark>.
 - Recriar uma página modelo com qualidade e atenção aos detalhes.
+- Desenvolvido por <mark>DudaZabel</mark>.
 
 ---
 
-## 💻 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
-![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white)
+- HTML5  
+- Bootstrap 5 (via CDN)
 
 ---
 
-## 🚀 Como Rodar o Projeto
+## Como Rodar o Projeto
 
-1. Clone ou baixe o repositório:
-   ```bash
+1. Clone ou baixe o repositório:  
    git clone <URL-do-repositório>
+2. Abra a pasta do projeto.  
+3. Dê um duplo clique no arquivo `index.html` para abrir no navegador.
 
-![DudaZabel](https://img.shields.io/badge/Desenvolvido_por-DudaZabel-fd7e14?style=for-the-badge).
+> **Não é necessário instalar nada além do navegador!**
 
+---
+
+## Destaques do Projeto
+
+- Uso completo do sistema de grid do <mark>Bootstrap</mark> para layout fluido.
+- Botões e elementos com estilo alinhado à matéria <mark>Front-End</mark>.
+- Código limpo e organizado para facilitar leitura e manutenção.
+
+---
+
+## Referências
+
+- [Documentação oficial do Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+- Material da disciplina <mark>Front-End</mark>
+
+---
+
+## Desenvolvedora
+
+**DudaZabel**
+
+---
