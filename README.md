@@ -19,7 +19,6 @@ O desafio foi aplicar os principais componentes, classes utilitárias e o sistem
 - Utilizar componentes nativos do <mark>Bootstrap</mark>, como botões, navegação e formulários.
 - Aprender a importar o Bootstrap via <mark>CDN</mark>.
 - Recriar uma página modelo com qualidade e atenção aos detalhes.
-- Desenvolvido por <mark>DudaZabel</mark>.
 
 ---
 
