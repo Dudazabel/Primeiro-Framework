@@ -19,7 +19,6 @@ O desafio foi aplicar os principais componentes, classes utilitárias e o sistem
 - Utilizar componentes nativos do ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white), como botões, navegação e formulários.
 - Aprender a importar o Bootstrap via ![CDN](https://img.shields.io/badge/CDN-0d6efd?style=for-the-badge).
 - Recriar uma página modelo com qualidade e atenção aos detalhes.
-- Desenvolvido por ![DudaZabel](https://img.shields.io/badge/Desenvolvido_por-DudaZabel-fd7e14?style=for-the-badge).
 
 ---
 
@@ -35,4 +34,6 @@ O desafio foi aplicar os principais componentes, classes utilitárias e o sistem
 1. Clone ou baixe o repositório:
    ```bash
    git clone <URL-do-repositório>
+
+![DudaZabel](https://img.shields.io/badge/Desenvolvido_por-DudaZabel-fd7e14?style=for-the-badge).
 
